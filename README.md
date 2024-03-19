@@ -17,6 +17,7 @@ Fermion: BLE Sensor Beacon, a wireless beacon that broadcasts sensor data via Bl
 - Gravity: Analog Soil Moisture Sensor  
 - Fermion: MEMS VOC sensor  
 - ESP32 or You can use Mobile App to check whether data is getting broadcasted  
+- Nextion Display 3.2"  
 </br>
 
 <img src="/Images/hackster-article-3.png" height="250" >  
